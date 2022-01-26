@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aruladam&hide=issues&show_icons=true&hide_border=true&title_color=000" />
 </p>
+## **Github Stats**
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=aruladam&show_icons=true&theme=radical)](https://github.com/aruladam)
