@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 
 - **Support me by Signing up on Heroku:**
 
-
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com/)
